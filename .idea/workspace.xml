@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18d1a7b1-35b2-4c3f-8175-f657aee4078d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/backgrounds/treeBG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sounds/buttonPops.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/adam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/button1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/button2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/button3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/cannonBarrel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/cannonBase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/coin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/orBall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/platform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/redBall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/sprites/volcano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/spritesheets/adamSheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/tilemaps/grassTiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/tilemaps/rockTiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/assets/tilemaps/field.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/index.html" afterPath="$PROJECT_DIR$/../phaserDemo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/main.js" afterPath="$PROJECT_DIR$/../phaserDemo/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state0.js" afterPath="$PROJECT_DIR$/../phaserDemo/state0.js" />
     </list>
     <ignored path="game-tut-1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +67,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../phaserDemo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="150">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -312,7 +327,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475434475445</updated>
-      <workItem from="1475434476643" duration="8250000" />
+      <workItem from="1475434476643" duration="9122000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit.">
       <created>1475436428208</created>
@@ -356,11 +371,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475442835079</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added stylesheet : main.css.">
+      <created>1475443531245</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1475443531245</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8250000" />
+    <option name="totallyTimeSpent" value="9122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -400,7 +422,8 @@
     <MESSAGE value="Second commit." />
     <MESSAGE value="Changes." />
     <MESSAGE value="Added states and Keyboard event listeners to switch between those" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added states and Keyboard event listeners to switch between those" />
+    <MESSAGE value="Added stylesheet : main.css." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added stylesheet : main.css." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -513,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../phaserDemo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="150">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
       </provider>
