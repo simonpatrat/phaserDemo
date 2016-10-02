@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18d1a7b1-35b2-4c3f-8175-f657aee4078d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../phaserDemo/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../phaserDemo/.idea/phaserDemo.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/index.html" afterPath="$PROJECT_DIR$/../phaserDemo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" />
     </list>
     <ignored path="game-tut-1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -202,7 +199,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475434475445</updated>
-      <workItem from="1475434476643" duration="2057000" />
+      <workItem from="1475434476643" duration="2089000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit.">
       <created>1475436428208</created>
@@ -211,11 +208,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475436428208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes.">
+      <created>1475436743275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475436743275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2057000" />
+    <option name="totallyTimeSpent" value="2089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="971" extended-state="6" />
@@ -253,7 +257,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit." />
+    <MESSAGE value="Changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
