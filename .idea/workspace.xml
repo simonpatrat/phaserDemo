@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18d1a7b1-35b2-4c3f-8175-f657aee4078d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../phaserDemo/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../phaserDemo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/index.html" afterPath="$PROJECT_DIR$/../phaserDemo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/main.js" afterPath="$PROJECT_DIR$/../phaserDemo/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state0.js" afterPath="$PROJECT_DIR$/../phaserDemo/state0.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state1.js" afterPath="$PROJECT_DIR$/../phaserDemo/state1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state2.js" afterPath="$PROJECT_DIR$/../phaserDemo/state2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state3.js" afterPath="$PROJECT_DIR$/../phaserDemo/state3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state4.js" afterPath="$PROJECT_DIR$/../phaserDemo/state4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state5.js" afterPath="$PROJECT_DIR$/../phaserDemo/state5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state6.js" afterPath="$PROJECT_DIR$/../phaserDemo/state6.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state7.js" afterPath="$PROJECT_DIR$/../phaserDemo/state7.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state8.js" afterPath="$PROJECT_DIR$/../phaserDemo/state8.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../phaserDemo/state9.js" afterPath="$PROJECT_DIR$/../phaserDemo/state9.js" />
     </list>
     <ignored path="game-tut-1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +32,38 @@
       <file leaf-file-name="state0.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../phaserDemo/state0.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../phaserDemo/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../phaserDemo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../phaserDemo/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -55,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="state2.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="state2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../phaserDemo/state2.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -105,36 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="state7.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../phaserDemo/state7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="state8.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../phaserDemo/state8.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="state9.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../phaserDemo/state9.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -153,9 +147,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../phaserDemo/.gitignore" />
         <option value="$PROJECT_DIR$/../phaserDemo/state.8.js" />
-        <option value="$PROJECT_DIR$/../phaserDemo/index.html" />
-        <option value="$PROJECT_DIR$/../phaserDemo/main.js" />
-        <option value="$PROJECT_DIR$/../phaserDemo/state0.js" />
         <option value="$PROJECT_DIR$/../phaserDemo/state1.js" />
         <option value="$PROJECT_DIR$/../phaserDemo/state9.js" />
         <option value="$PROJECT_DIR$/../phaserDemo/state8.js" />
@@ -165,6 +156,10 @@
         <option value="$PROJECT_DIR$/../phaserDemo/state4.js" />
         <option value="$PROJECT_DIR$/../phaserDemo/state3.js" />
         <option value="$PROJECT_DIR$/../phaserDemo/state2.js" />
+        <option value="$PROJECT_DIR$/../phaserDemo/state0.js" />
+        <option value="$PROJECT_DIR$/../phaserDemo/main.js" />
+        <option value="$PROJECT_DIR$/../phaserDemo/main.css" />
+        <option value="$PROJECT_DIR$/../phaserDemo/index.html" />
       </list>
     </option>
   </component>
@@ -317,7 +312,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475434475445</updated>
-      <workItem from="1475434476643" duration="7611000" />
+      <workItem from="1475434476643" duration="8250000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit.">
       <created>1475436428208</created>
@@ -354,11 +349,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475440959096</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added states and Keyboard event listeners to switch between those">
+      <created>1475442835079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1475442835079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7611000" />
+    <option name="totallyTimeSpent" value="8250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -397,7 +399,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit." />
     <MESSAGE value="Changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes." />
+    <MESSAGE value="Added states and Keyboard event listeners to switch between those" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added states and Keyboard event listeners to switch between those" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -408,22 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../phaserDemo/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../phaserDemo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -492,18 +479,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../phaserDemo/state0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../phaserDemo/state2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phaserDemo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phaserDemo/state0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phaserDemo/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phaserDemo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding />
         </state>
       </provider>

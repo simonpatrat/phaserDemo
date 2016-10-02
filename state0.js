@@ -7,13 +7,13 @@ demo.state0.prototype = {
         game.stage.backgroundColor = '#80FF80';
         game.input.keyboard.addKey(Phaser.Keyboard.ONE).onDown.add(changeState, null, null, 1);
         addChangeStateEventlisteners();
+        game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
 
     },
     update: function() {}
 };
 
 function changeState(i, stateNum) {
-    console.log(i);
     game.state.start('state' + stateNum);
 }
 
